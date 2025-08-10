@@ -24,18 +24,22 @@
      My mission, because I'm a superhero!
 -->
 
-### My mission
-I’m driven by a love for solving problems! With a technical background, I’ve always found my place in connecting people and working closely with businesses. My mission is to bridge connections, empower collaboration, and tackle real-world challenges that make a meaningful difference.
+### About Me
+I’m someone who loves exploring every loophole, both technically and physically. always seeking innovative possibilities.  
+I have a passion for creating things that are modern, stylish, gorgeous, and clean.  
+Most of the time, I choose silence…
 
 <!--
      This is the list of my skills and tools I am studying!
 -->
 
-### Main skills
-[![My Skills](https://skillicons.dev/icons?i=py,regex,github,git,mongodb,mysql,eclipse,java,spring,js,nodejs,react,express,jest,jenkins,cpp,cs,dotnet,html,css,bootstrap,pug,php,androidstudio,blender,ps,notion)](https://skillicons.dev)
+### Favourite Skills  
+[![My Skills](https://skillicons.dev/icons?i=github,vscode,html,bootstrap,css,php,mysql,java,js,arduino,unity,notion,figma,ps,premiere)](https://skillicons.dev)
 
-### Studying
-[![Learning](https://skillicons.dev/icons?i=aws,azure,ruby)](https://skillicons.dev)
+### Studying  
+[![Learning](https://skillicons.dev/icons?i=mongodb,firebase,ai,python,react)](https://skillicons.dev)  
+Exploring Artificial Intelligence and modern creative technologies.
+
 
 <!--
      I also have my own blog with useful information, check it out ^^
