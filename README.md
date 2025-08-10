@@ -5,7 +5,7 @@
 </a>
 
 <div>
-    <img src="./assets/about_#M3k-A.gif" alt="About Me Terminal GIF"/>
+    <img src="./assets/about_M3k-A.gif" alt="About Me Terminal GIF"/>
 </div>
 
 ### ᴀʙᴏᴜᴛ ᴍᴇ
