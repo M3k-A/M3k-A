@@ -17,7 +17,7 @@
 -->
 
 <div>
-    <img src="./assets/about#M3k-A.gif" alt="About Me Terminal GIF"/>
+    <img src="./assets/about_M3k-A.gif" alt="About Me Terminal GIF"/>
 </div>
 
 <!--
