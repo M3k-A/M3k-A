@@ -1,52 +1,63 @@
-<!-- Banner GIF -->
+<!-- 🌌 Animated Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" alt="Banner">
+  <img src="https://i.imgur.com/2C2mUao.gif" alt="M3k-A Banner" width="100%">
 </p>
 
+<!-- 👑 Name -->
 <h1 align="center">⚡ ᴍ3ᴋ-ᴀ ⚡</h1>
-<h3 align="center">ᴅᴇᴠᴇʟᴏᴘᴇʀ | ɢᴀᴍᴇʀ | ᴄʀᴇᴀᴛᴏʀ</h3>
+<h3 align="center">ᴅᴇᴠᴇʟᴏᴘᴇʀ • ɢᴀᴍᴇʀ • ᴄʀᴇᴀᴛᴏʀ</h3>
+
+<!-- 🌊 SVG Divider -->
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/wave.svg" width="100%">
 
 ---
 
-### 🎯 ᴀʙᴏᴜᴛ ᴍᴇ
-- 🚀 ᴄᴏᴅᴇ • ᴄʀᴇᴀᴛᴇ • ᴄᴏɴQᴜᴇʀ  
-- 🎮 ʙʟᴇɴᴅɪɴɢ ɢᴀᴍɪɴɢ ᴘᴀssɪᴏɴ ᴡɪᴛʜ ᴄᴏᴅɪɴɢ ᴘᴏᴡᴇʀ  
-- ⚡ ᴄʏʙᴇʀᴘᴜɴᴋ ᴇɴᴛʜᴜsɪᴀsᴛ • ғᴜᴛᴜʀᴇ ʙᴜɪʟᴅᴇʀ  
+## ✨ ᴀʙᴏᴜᴛ ᴍᴇ  
+> 🎯 Turning **ideas** into **digital masterpieces**  
+> 🖤 Blending **gaming passion** with **code precision**  
+> 🌌 Always chasing the **next-level experience**  
 
----
-
-### 🛠️ ᴛᴇᴄʜ sᴛᴀᴄᴋ
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-ffb400?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-4F5B93?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-### 📊 ɢɪᴛʜᴜʙ sᴛᴀᴛs
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M3k-A&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M3k-A&theme=radical" height="165"/>
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300">
 </p>
 
 ---
 
-### 🎬 ᴀɴɪᴍᴀᴛᴇᴅ ᴛᴇxᴛ
+## 🛠️ ᴛᴇᴄʜ ᴀʀsᴇɴᴀʟ  
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F700F7&center=true&vCenter=true&width=600&lines=ᴡᴇʟᴄᴏᴍᴇ+ᴛᴏ+ᴍʏ+ɢɪᴛʜᴜʙ;ᴄᴏᴅᴇ+ɪs+ᴀʀᴛ;ʟᴇᴛ's+ʙᴜɪʟᴅ+ᴛʜᴇ+ғᴜᴛᴜʀᴇ" alt="Typing SVG" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,git,github,vscode,figma" />
 </p>
 
 ---
 
-### 📫 ʜᴏᴡ ᴛᴏ ʀᴇᴀᴄʜ ᴍᴇ
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+## 📊 ᴘᴇʀғᴏʀᴍᴀɴᴄᴇ  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=M3k-A&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M3k-A&theme=tokyonight&hide_border=true" height="165" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=M3k-A&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+## 🎬 ᴍʏ ᴍᴏᴏᴅ ɪɴ ᴄᴏᴅᴇ  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F700F7&center=true&vCenter=true&width=600&lines=ᴡᴇʟᴄᴏᴍᴇ+ᴛᴏ+ᴍʏ+ᴡᴏʀʟᴅ;ᴄᴏᴅᴇ+ɪs+ᴀʀᴛ;ʟᴇᴛ's+ʙᴜɪʟᴅ+ᴛʜᴇ+ғᴜᴛᴜʀᴇ" alt="Typing SVG" />
+</p>
+
+---
+
+## 📫 ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ  
+<p align="center">
+  <a href="#"><img src="https://img.icons8.com/fluency/48/discord-logo.png" alt="Discord"/></a>
+  <a href="#"><img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/></a>
+  <a href="#"><img src="https://img.icons8.com/fluency/48/domain.png" alt="Portfolio"/></a>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/HoffxyN8ghVuw/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/HoffxyN8ghVuw/giphy.gif" width="150" />
 </p>
-<p align="center">✨ ᴄʀᴇᴀᴛᴇᴅ ᴡɪᴛʜ ᴄᴏᴅᴇ & ᴄᴏғғᴇᴇ ✨</p>
+<p align="center">✨ Crafted with 💜, ☕ & ᴄᴏᴅᴇ ✨</p>
