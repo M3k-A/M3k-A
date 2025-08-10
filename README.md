@@ -1,44 +1,24 @@
-<!--
-    Hey there, I'm Daria Stanilevici!
-    Happy to see you here exploring my README code
-    Feel free to inspire!
-    
-    But may I please ask you to follow me in return? Just a click!
-    You may also want to connect with me on LinkedIn @daria-stanilevici :))
--->
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hello%2C+it's+%23M3k-A;Content+Creator" alt="#M3k-A"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hello%2C+I'm+%23M3k-A;Content+Creator" alt="#M3k-A"/>
 </a>
-<!--
-    Your own Terminal GIF can be created here -> https://www.terminalgif.com
--->
 
 <div>
     <img src="./assets/about_M3k-A.gif" alt="About Me Terminal GIF"/>
 </div>
-
-<!--
-     My mission, because I'm a superhero!
--->
 
 ### About Me
 I’m someone who loves exploring every loophole, both technically and physically. always seeking innovative possibilities.  
 I have a passion for creating things that are modern, stylish, gorgeous, and clean.  
 Most of the time, I choose silence…
 
-<!--
-     This is the list of my skills and tools I am studying!
--->
-
 ### Favourite Skills  
-[![My Skills](https://skillicons.dev/icons?i=github,vscode,html,bootstrap,css,php,mysql,java,js,arduino,unity,notion,figma,ps,premiere)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,vscode,html,css,bootstrap,php,mysql,js,arduino,unity,notion,figma,ps,premiere)](https://skillicons.dev)  
 
-### Studying  
-[![Learning](https://skillicons.dev/icons?i=mongodb,firebase,ai,python,react)](https://skillicons.dev)  
-Exploring Artificial Intelligence and modern creative technologies.
+### Currently Learning  
+[![Learning](https://skillicons.dev/icons?i=java,mongodb,firebase,python,react,ai)](https://skillicons.dev)  
+Passionate about building modern, creative, and efficient solutions while exploring Artificial Intelligence and emerging technologies.
 
 
 <!--
