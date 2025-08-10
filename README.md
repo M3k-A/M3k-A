@@ -18,6 +18,9 @@ Most of the time, I choose silence…
 
 ### Currently Learning  
 [![Learning](https://skillicons.dev/icons?i=java,mongodb,firebase,python,react,ai&theme=dark)](https://skillicons.dev)  
-Exploring Artificial Intelligence and modern creative technologies.
+
+### Employer?
+> [!IMPORTANT]  
+> <a href="https://drive.google.com/drive/folders/1hJGhQTtzDUzMqRtoIQUx7QTLtCN726ZK?usp=sharing" download>Download my resume</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A371F7&height=120&section=footer" alt="footer"/>
