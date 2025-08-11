@@ -19,7 +19,7 @@ Most of the time, I choose silence…
 ### Currently Learning  
 [![Learning](https://skillicons.dev/icons?i=java,mongodb,firebase,python,react,ai&theme=dark)](https://skillicons.dev)
 
-### Current States   
+<h2 align="left">ᴄᴜʀʀᴇɴᴛ ꜱᴛᴀᴛᴇꜱ</h2>   
 <div align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: nowrap;">
     <a href="https://discord.com/users/1254383596655874078">
         <img src="https://lanyard.cnrad.dev/api/1254383596655874078?theme=dark&idleMessage=%E1%B4%84%E1%B4%9C%CA%80%CA%80%E1%B4%87%C9%B4%E1%B4%9B%CA%9F%CA%8F%20%E1%B4%85%E1%B4%8F%C9%AA%C9%B4%C9%A2%20%C9%B4%E1%B4%8F%E1%B4%9B%CA%9C%C9%AA%C9%B4%C9%A2%20%E1%B4%8D%E1%B4%80%CA%8F%CA%99%E1%B4%87%20%CA%9F%E1%B4%8F%CA%9F%20!%20%E2%80%A2%E1%B4%97%E2%80%A2&showDisplayName=true&bg=1e1e2e&borderRadius=15px&hideDiscrim=true&idleStatus=idle" 
@@ -29,10 +29,15 @@ Most of the time, I choose silence…
         alt="GitHub Stats" height="180" style="border-radius: 15px;"/>
 </div>
 
-
+<h2 align="left">Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=M3k-A&bg_color=1e1e2e&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=true" border-radius="25">
+</div>
 
 ### Employer?
 > [!IMPORTANT]  
-> <a href="https://drive.google.com/drive/folders/1hJGhQTtzDUzMqRtoIQUx7QTLtCN726ZK?usp=sharing" download>Download my resume</a>
+> <a href="#" download>Download my resume</a>
+
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A371F7&height=120&section=footer" alt="footer"/>
