@@ -17,7 +17,11 @@ Most of the time, I choose silence…
 [![My Skills](https://skillicons.dev/icons?i=github,vscode,html,css,bootstrap,php,mysql,js,arduino,unity,notion,figma,ps,premiere&theme=dark)](https://skillicons.dev)  
 
 ### Currently Learning  
-[![Learning](https://skillicons.dev/icons?i=java,mongodb,firebase,python,react,ai&theme=dark)](https://skillicons.dev)  
+[![Learning](https://skillicons.dev/icons?i=java,mongodb,firebase,python,react,ai&theme=dark)](https://skillicons.dev)
+
+
+![Discord Status](https://lanyard.cnrad.dev/api/1254383596655874078?bg=1e1e2e&borderRadius=25px)
+
 
 ### Employer?
 > [!IMPORTANT]  
