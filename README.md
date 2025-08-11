@@ -19,8 +19,7 @@ Most of the time, I choose silence…
 ### Currently Learning  
 [![Learning](https://skillicons.dev/icons?i=java,mongodb,firebase,python,react,ai&theme=dark)](https://skillicons.dev)
 
-
-![Discord Status](https://lanyard.cnrad.dev/api/1254383596655874078?bg=1e1e2e&borderRadius=25px)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1254383596655874078?theme=dark&idleMessage=%E1%B4%84%E1%B4%9C%CA%80%CA%80%E1%B4%87%C9%B4%E1%B4%9B%CA%9F%CA%8F%20%E1%B4%85%E1%B4%8F%C9%AA%C9%B4%C9%A2%20%C9%B4%E1%B4%8F%E1%B4%9B%CA%9C%C9%AA%C9%B4%C9%A2%20%E1%B4%8D%E1%B4%80%CA%8F%CA%99%E1%B4%87%20%CA%9F%E1%B4%8F%CA%9F%20!%20%E2%80%A2%E1%B4%97%E2%80%A2&showDisplayName=true&bg=1e1e2e&borderRadius=25px)](https://discord.com/users/1254383596655874078)
 
 
 ### Employer?
