@@ -14,7 +14,7 @@ I have a passion for creating things that are modern, stylish, gorgeous, and cle
 Most of the time, I choose silence…
 
 ### Focused Skills
-[![My Skills](https://skillicons.dev/icons?i=github,vscode,html,css,bootstrap,php,mysql,js,arduino,unity,notion,figma,ps,premiere&theme=dark)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=github,vscode,html,css,bootstrap,php,mysql,js,arduino,unity,notion,figma,ps,premiere,discord&theme=dark)](https://skillicons.dev)  
 
 ### Currently Learning  
 [![Learning](https://skillicons.dev/icons?i=java,mongodb,firebase,python,react,ai&theme=dark)](https://skillicons.dev)
