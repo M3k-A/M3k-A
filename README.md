@@ -22,7 +22,7 @@ Most of the time, I choose silence…
 <h2 align="left">ᴄᴜʀʀᴇɴᴛ ꜱᴛᴀᴛᴇꜱ</h2>   
 <div align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: nowrap;">
     <a href="https://discord.com/users/1093145335192371331">
-        <img src="https://lanyard.cnrad.dev/api/1254383596655874078?theme=dark&idleMessage=%E1%B4%84%E1%B4%9C%CA%80%CA%80%E1%B4%87%C9%B4%E1%B4%9B%CA%9F%CA%8F%20%E1%B4%85%E1%B4%8F%C9%AA%C9%B4%C9%A2%20%C9%B4%E1%B4%8F%E1%B4%9B%CA%9C%C9%AA%C9%B4%C9%A2%20%E1%B4%8D%E1%B4%80%CA%8F%CA%99%E1%B4%87%20%CA%9F%E1%B4%8F%CA%9F%20!%20%E2%80%A2%E1%B4%97%E2%80%A2&showDisplayName=true&bg=1e1e2e&borderRadius=15px&hideDiscrim=true&idleStatus=idle" 
+        <img src="https://lanyard.cnrad.dev/api/1093145335192371331?theme=dark&idleMessage=%E1%B4%84%E1%B4%9C%CA%80%CA%80%E1%B4%87%C9%B4%E1%B4%9B%CA%9F%CA%8F%20%E1%B4%85%E1%B4%8F%C9%AA%C9%B4%C9%A2%20%C9%B4%E1%B4%8F%E1%B4%9B%CA%9C%C9%AA%C9%B4%C9%A2%20%E1%B4%8D%E1%B4%80%CA%8F%CA%99%E1%B4%87%20%CA%9F%E1%B4%8F%CA%9F%20!%20%E2%80%A2%E1%B4%97%E2%80%A2&showDisplayName=true&bg=1e1e2e&borderRadius=15px&hideDiscrim=true&idleStatus=idle" 
         alt="Discord Presence" height="180" style="border-radius: 15px;"/>
     </a>
     <img src="https://github-readme-stats.vercel.app/api?username=M3k-A&show_icons=true&theme=radical&title_color=A371F7&icon_color=A371F7&text_color=ffffff&bg_color=1e1e2e&hide_border=true" 
